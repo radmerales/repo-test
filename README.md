@@ -1,3 +1,3 @@
 # Better docs
 
-  Testers
+  Testers = 50%

@@ -1,3 +1,3 @@
 # Better docs
 
-  Tisters
+  Testers = 50%
